@@ -9,6 +9,8 @@ Lesson 6 of AI & ML, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/ai-ml/attention-intuition
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python ai-ml/06-attention-intuition.py
 """
 

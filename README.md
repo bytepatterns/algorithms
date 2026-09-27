@@ -2,9 +2,9 @@
 
 **Every algorithm from [bytepatterns.com](https://bytepatterns.com?utm_source=github&utm_medium=readme&utm_campaign=algorithms) as a small Python file you can run, read and break.**
 
-![lessons](https://img.shields.io/badge/lessons-300-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-336-0a7cf5) ![problems](https://img.shields.io/badge/problems-100-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
+![lessons](https://img.shields.io/badge/lessons-300-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-366-0a7cf5) ![problems](https://img.shields.io/badge/problems-130-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
 
-236 lesson files across 26 modules, plus 100 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
+236 lesson files across 26 modules, plus 130 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
 
 ## Watch it, then run it
 
@@ -58,7 +58,7 @@ System Design, System Design Cases, Behavioral: concept lessons (architecture, t
 
 ### Practice problems
 
-100 original problems (26 easy, 59 medium, 15 hard), each with the statement and examples as a docstring and a tested solution. Try them first on the site, where hints unlock one at a time.
+130 original problems (38 easy, 72 medium, 20 hard), each with the statement and examples as a docstring and a tested solution. Try them first on the site, where hints unlock one at a time.
 
 | Topic | Problems | Easy | Medium | Hard | Folder |
 |---|---:|---:|---:|---:|---|
@@ -69,19 +69,19 @@ System Design, System Design Cases, Behavioral: concept lessons (architecture, t
 | Linked Lists | 6 | 2 | 4 | 0 | [`problems/linked-lists/`](problems/linked-lists/) |
 | Stacks & Queues | 5 | 2 | 2 | 1 | [`problems/stacks-queues/`](problems/stacks-queues/) |
 | Hash Tables | 6 | 3 | 3 | 0 | [`problems/hash-tables/`](problems/hash-tables/) |
-| Recursion | 3 | 1 | 2 | 0 | [`problems/recursion/`](problems/recursion/) |
-| Backtracking | 3 | 0 | 3 | 0 | [`problems/backtracking/`](problems/backtracking/) |
-| Greedy | 3 | 0 | 3 | 0 | [`problems/greedy/`](problems/greedy/) |
+| Recursion | 6 | 2 | 4 | 0 | [`problems/recursion/`](problems/recursion/) |
+| Backtracking | 6 | 1 | 4 | 1 | [`problems/backtracking/`](problems/backtracking/) |
+| Greedy | 6 | 1 | 4 | 1 | [`problems/greedy/`](problems/greedy/) |
 | Trees & BST | 7 | 3 | 3 | 1 | [`problems/trees/`](problems/trees/) |
-| Tries | 3 | 0 | 2 | 1 | [`problems/tries/`](problems/tries/) |
+| Tries | 6 | 1 | 3 | 2 | [`problems/tries/`](problems/tries/) |
 | Heaps | 6 | 1 | 4 | 1 | [`problems/heaps/`](problems/heaps/) |
-| Two Heaps & K-Way Merge | 3 | 0 | 1 | 2 | [`problems/two-heaps-k-way/`](problems/two-heaps-k-way/) |
+| Two Heaps & K-Way Merge | 6 | 1 | 2 | 3 | [`problems/two-heaps-k-way/`](problems/two-heaps-k-way/) |
 | Graphs | 7 | 1 | 5 | 1 | [`problems/graphs/`](problems/graphs/) |
-| Matrix & Grid | 3 | 1 | 2 | 0 | [`problems/matrix-grid/`](problems/matrix-grid/) |
-| Union-Find | 3 | 0 | 2 | 1 | [`problems/union-find/`](problems/union-find/) |
-| Intervals | 3 | 0 | 2 | 1 | [`problems/intervals/`](problems/intervals/) |
-| Bit Manipulation | 3 | 2 | 1 | 0 | [`problems/bit-manipulation/`](problems/bit-manipulation/) |
-| Math & Number Theory | 3 | 1 | 2 | 0 | [`problems/math-number-theory/`](problems/math-number-theory/) |
+| Matrix & Grid | 6 | 2 | 3 | 1 | [`problems/matrix-grid/`](problems/matrix-grid/) |
+| Union-Find | 6 | 1 | 4 | 1 | [`problems/union-find/`](problems/union-find/) |
+| Intervals | 6 | 2 | 3 | 1 | [`problems/intervals/`](problems/intervals/) |
+| Bit Manipulation | 6 | 4 | 2 | 0 | [`problems/bit-manipulation/`](problems/bit-manipulation/) |
+| Math & Number Theory | 6 | 2 | 4 | 0 | [`problems/math-number-theory/`](problems/math-number-theory/) |
 | Dynamic Programming | 8 | 2 | 4 | 2 | [`problems/dynamic-programming/`](problems/dynamic-programming/) |
 
 ## Run it

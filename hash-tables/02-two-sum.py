@@ -10,6 +10,8 @@ Lesson 2 of Hash Tables, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/hash-tables/two-sum
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python hash-tables/02-two-sum.py
 """
 

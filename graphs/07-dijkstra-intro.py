@@ -10,6 +10,8 @@ Lesson 7 of Graphs, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/graphs/dijkstra-intro
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python graphs/07-dijkstra-intro.py
 """
 

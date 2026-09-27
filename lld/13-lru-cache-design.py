@@ -12,6 +12,8 @@ Lesson 13 of Low-Level Design, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/lld/lru-cache-design
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python lld/13-lru-cache-design.py
 """
 
