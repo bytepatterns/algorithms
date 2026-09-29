@@ -31,6 +31,10 @@ Approach:
     that is not smaller, found by binary search, or extends the list. Time
     is O(n log n) and space is O(n).
 
+The lesson behind it: LIS in O(n log n)
+    https://bytepatterns.com/learn/dynamic-programming/lis-patience-tails
+    python dynamic-programming/15-lis-patience-tails.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/nesting-envelopes
 

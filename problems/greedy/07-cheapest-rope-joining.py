@@ -30,6 +30,10 @@ Approach:
     spliced rope goes back in as a new candidate. Time is O(n log n) and
     space is O(n).
 
+The lesson behind it: Huffman Intuition
+    https://bytepatterns.com/learn/greedy/huffman-intuition
+    python greedy/05-huffman-intuition.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/greedy/cheapest-rope-joining
 

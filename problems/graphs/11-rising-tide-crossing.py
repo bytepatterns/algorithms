@@ -34,6 +34,10 @@ Approach:
     share a set, the cell just opened is the highest one any route needs.
     Time is O(rc log rc) for sorting r times c cells, and space is O(rc).
 
+The lesson behind it: Kruskal's Spanning Tree
+    https://bytepatterns.com/learn/graphs/kruskal-mst
+    python graphs/10-kruskal-mst.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/rising-tide-crossing
 

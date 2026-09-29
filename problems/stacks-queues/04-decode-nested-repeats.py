@@ -29,6 +29,10 @@ Approach:
     never touches the stack. Time is O(length of the output) and space is
     O(depth of nesting plus the output).
 
+The lesson behind it: Stack Basics
+    https://bytepatterns.com/learn/stacks-queues/stack-basics
+    python stacks-queues/01-stack-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/stacks-queues/decode-nested-repeats
 

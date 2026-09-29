@@ -28,6 +28,10 @@ Approach:
     boundaries, so no extra list is allocated. Time is O(n) and space is
     O(1).
 
+The lesson behind it: Two Pointers
+    https://bytepatterns.com/learn/arrays/two-pointers
+    python arrays/02-two-pointers.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/arrays/drop-sorted-duplicates
 

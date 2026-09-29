@@ -28,6 +28,10 @@ Approach:
     with a pointer into the children does the rest. Time is O(n log n + m
     log m) for the sorts, and space is O(1) beyond them.
 
+The lesson behind it: What Makes Greedy Work
+    https://bytepatterns.com/learn/greedy/what-makes-greedy-work
+    python greedy/01-what-makes-greedy-work.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/greedy/hand-out-cookies
 

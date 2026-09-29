@@ -32,6 +32,10 @@ Approach:
     since each cell is examined a constant number of times, and space is
     O(rows times cols) in the worst case.
 
+The lesson behind it: Connected Components
+    https://bytepatterns.com/learn/graphs/connected-components
+    python graphs/05-connected-components.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/count-island-blobs
 

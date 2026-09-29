@@ -29,6 +29,10 @@ Approach:
     the far end has never been looked at. Time is O(n) in a single pass, and
     space is O(1).
 
+The lesson behind it: Dutch National Flag
+    https://bytepatterns.com/learn/arrays/dutch-national-flag
+    python arrays/11-dutch-national-flag.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/sorting/three-way-flag-sort
 

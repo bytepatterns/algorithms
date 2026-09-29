@@ -28,6 +28,10 @@ Approach:
     number, roughly 4 to the n divided by n to the 1.5, and each costs O(n)
     to build, which bounds the time; the depth is 2n.
 
+The lesson behind it: Backtracking
+    https://bytepatterns.com/learn/recursion/backtracking-intro
+    python recursion/05-backtracking-intro.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/backtracking/balanced-bracket-strings
 

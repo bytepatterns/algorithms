@@ -29,6 +29,10 @@ Approach:
     uncoloured node handles disconnected graphs, since each component gets
     its own free first choice. Time is O(V + E) and space is O(V).
 
+The lesson behind it: Bipartite Check
+    https://bytepatterns.com/learn/graphs/bipartite-check
+    python graphs/12-bipartite-check.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/two-colour-split-check
 

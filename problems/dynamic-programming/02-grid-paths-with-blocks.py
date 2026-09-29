@@ -33,6 +33,10 @@ Approach:
     start is seeded with one way, and a blocked start short-circuits to
     zero. Time is O(rows times cols), and space is O(cols).
 
+The lesson behind it: DP on Grids
+    https://bytepatterns.com/learn/dynamic-programming/dp-on-grids
+    python dynamic-programming/10-dp-on-grids.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/grid-paths-with-blocks
 

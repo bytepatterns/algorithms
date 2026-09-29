@@ -30,6 +30,10 @@ Approach:
     letters in a string of length n there are 2 to the L results of length
     n, so time is O(n times 2 to the L) and the recursion depth is O(n).
 
+The lesson behind it: Subsets
+    https://bytepatterns.com/learn/backtracking/subsets
+    python backtracking/02-subsets.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/backtracking/flip-letter-case-variants
 

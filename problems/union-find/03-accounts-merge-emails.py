@@ -30,6 +30,10 @@ Approach:
     each bucket gives the required output order. Time is O(E log E)
     dominated by the sorting, space O(E).
 
+The lesson behind it: Union by Rank or Size
+    https://bytepatterns.com/learn/union-find/union-by-size
+    python union-find/03-union-by-size.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/union-find/accounts-merge-emails
 

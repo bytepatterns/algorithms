@@ -30,6 +30,10 @@ Approach:
     O(n) because the scout never revisits a character, and space is O(n) for
     the built output.
 
+The lesson behind it: String Compression
+    https://bytepatterns.com/learn/strings/string-compression
+    python strings/10-string-compression.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/strings/run-length-compression
 

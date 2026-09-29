@@ -29,6 +29,10 @@ Approach:
     stretching its start down and its end up. One left-to-right pass handles
     all three runs. Time is O(n) and space is O(n) for the output.
 
+The lesson behind it: Insert Interval
+    https://bytepatterns.com/learn/intervals/insert-interval
+    python intervals/03-insert-interval.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/intervals/insert-and-merge-span
 

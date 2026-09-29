@@ -31,6 +31,10 @@ Approach:
     the schedule simply ends. Time is O(n log d) for d distinct tasks, space
     O(d).
 
+The lesson behind it: Task Scheduler
+    https://bytepatterns.com/learn/heaps/task-scheduler
+    python heaps/07-task-scheduler.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/heaps/task-scheduler-cooldown
 

@@ -35,6 +35,10 @@ Approach:
     neighbours, so time is O(rows cols); the cache is O(rows cols) and the
     recursion can go as deep as the longest climb.
 
+The lesson behind it: Grid Traversal
+    https://bytepatterns.com/learn/matrix-grid/grid-traversal-and-neighbours
+    python matrix-grid/01-grid-traversal-and-neighbours.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/matrix-grid/longest-climbing-path
 

@@ -29,6 +29,10 @@ Approach:
     With n values in total, time is O(n log k) and the heap holds at most k
     entries.
 
+The lesson behind it: K-Way Merge
+    https://bytepatterns.com/learn/two-heaps-k-way/k-way-merge
+    python two-heaps-k-way/02-k-way-merge.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/two-heaps-k-way/merge-k-sorted-runs
 

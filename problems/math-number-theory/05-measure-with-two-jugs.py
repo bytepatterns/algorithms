@@ -31,6 +31,10 @@ Approach:
     check. Euclid's algorithm makes this O(log min(a, b)) time and O(1)
     space.
 
+The lesson behind it: GCD and Euclid
+    https://bytepatterns.com/learn/math-number-theory/gcd-and-euclid
+    python math-number-theory/02-gcd-and-euclid.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/math-number-theory/measure-with-two-jugs
 

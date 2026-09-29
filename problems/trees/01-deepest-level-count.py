@@ -27,6 +27,10 @@ Approach:
     visited exactly once. Time is O(n), and space is O(h) for the call
     stack, where h is the height of the tree.
 
+The lesson behind it: Tree Depth and Balance
+    https://bytepatterns.com/learn/trees/tree-depth-and-balance
+    python trees/07-tree-depth-and-balance.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/trees/deepest-level-count
 

@@ -29,6 +29,10 @@ Approach:
     happens by relinking, so no second list is built. Time is O(L) across
     the three passes, and space is O(1).
 
+The lesson behind it: Reverse a Linked List
+    https://bytepatterns.com/learn/linked-lists/reverse-linked-list
+    python linked-lists/04-reverse-linked-list.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/linked-lists/weave-list-halves
 

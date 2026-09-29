@@ -28,6 +28,10 @@ Approach:
     reversing it on every other round, so the traversal itself never
     changes. Time is O(n) and space is O(w) for the widest level.
 
+The lesson behind it: Level Order Traversal
+    https://bytepatterns.com/learn/trees/level-order-traversal
+    python trees/09-level-order-traversal.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/trees/zigzag-level-walk
 

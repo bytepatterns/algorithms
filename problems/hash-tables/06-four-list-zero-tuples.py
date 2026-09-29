@@ -29,6 +29,10 @@ Approach:
     values are naturally counted separately. Time is O(n squared) on
     average, and space is O(n squared) for the tally.
 
+The lesson behind it: Two Sum
+    https://bytepatterns.com/learn/hash-tables/two-sum
+    python hash-tables/02-two-sum.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/hash-tables/four-list-zero-tuples
 

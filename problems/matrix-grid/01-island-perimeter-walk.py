@@ -31,6 +31,10 @@ Approach:
     That makes the whole thing a plain sweep with four probes per cell and
     no traversal state. Time is O(rows * cols), and space is O(1).
 
+The lesson behind it: Grid Traversal
+    https://bytepatterns.com/learn/matrix-grid/grid-traversal-and-neighbours
+    python matrix-grid/01-grid-traversal-and-neighbours.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/matrix-grid/island-perimeter-walk
 

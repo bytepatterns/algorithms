@@ -28,6 +28,10 @@ Approach:
     once. Every node is visited once. Time is O(n), and space is O(h) for
     the call stack.
 
+The lesson behind it: Binary Trees
+    https://bytepatterns.com/learn/trees/binary-trees
+    python trees/02-binary-trees.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/trees/mirror-symmetry-check
 

@@ -29,6 +29,10 @@ Approach:
     keeps each piece lookup constant on average. Time is O(L squared) piece
     checks for a string of length L, and space is O(L) plus the dictionary.
 
+The lesson behind it: Word Break
+    https://bytepatterns.com/learn/dynamic-programming/word-break-dp
+    python dynamic-programming/18-word-break-dp.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/sentence-segmentation
 

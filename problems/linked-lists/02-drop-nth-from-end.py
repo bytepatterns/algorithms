@@ -30,6 +30,10 @@ Approach:
     the length and another to cut. Time is O(L) for list length L, and space
     is O(1).
 
+The lesson behind it: Fast and Slow Pointers
+    https://bytepatterns.com/learn/linked-lists/fast-and-slow-pointers
+    python linked-lists/05-fast-and-slow-pointers.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/linked-lists/drop-nth-from-end
 

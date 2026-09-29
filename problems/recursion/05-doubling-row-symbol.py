@@ -29,6 +29,10 @@ Approach:
     Only one call is made per row, so time and stack depth are both O(n),
     and nothing close to the full row is ever built.
 
+The lesson behind it: Recursion Basics
+    https://bytepatterns.com/learn/recursion/recursion-basics
+    python recursion/01-recursion-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/recursion/doubling-row-symbol
 

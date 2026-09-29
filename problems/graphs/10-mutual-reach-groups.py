@@ -30,6 +30,10 @@ Approach:
     and nothing more. Sorting at the end makes the output order fixed. Time
     is O(n + m) for the passes plus the final sort, and space is O(n + m).
 
+The lesson behind it: Strongly Connected Parts
+    https://bytepatterns.com/learn/graphs/strongly-connected-components
+    python graphs/16-strongly-connected-components.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/mutual-reach-groups
 

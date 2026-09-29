@@ -30,6 +30,10 @@ Approach:
     for an argument of length L, and the tree uses O(total characters
     stored) space.
 
+The lesson behind it: Trie Basics
+    https://bytepatterns.com/learn/tries/trie-basics
+    python tries/01-trie-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/tries/prefix-tree-operations
 

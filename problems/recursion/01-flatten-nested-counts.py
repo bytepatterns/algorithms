@@ -29,6 +29,10 @@ Approach:
     node is visited once, so time is O(n) in the total number of nodes, and
     the stack goes as deep as the nesting does.
 
+The lesson behind it: Recursion Basics
+    https://bytepatterns.com/learn/recursion/recursion-basics
+    python recursion/01-recursion-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/recursion/flatten-nested-counts
 

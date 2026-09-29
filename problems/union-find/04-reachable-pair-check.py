@@ -28,6 +28,10 @@ Approach:
     m links, time is O((n + m) times the inverse Ackermann function),
     effectively linear, and space is O(n).
 
+The lesson behind it: Disjoint Sets Basics
+    https://bytepatterns.com/learn/union-find/disjoint-sets-basics
+    python union-find/01-disjoint-sets-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/union-find/reachable-pair-check
 

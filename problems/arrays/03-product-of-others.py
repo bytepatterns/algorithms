@@ -28,6 +28,10 @@ Approach:
     scratch space, so no extra structure is needed. Time is O(n) for the two
     passes, and space is O(1) beyond the returned list.
 
+The lesson behind it: Product Except Self
+    https://bytepatterns.com/learn/arrays/product-except-self
+    python arrays/12-product-except-self.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/arrays/product-of-others
 

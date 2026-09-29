@@ -27,6 +27,10 @@ Approach:
     the end never warms up and keeps its zero. Each position is pushed and
     popped at most once, so time is O(n) and space is O(n).
 
+The lesson behind it: Monotonic Stack
+    https://bytepatterns.com/learn/stacks-queues/monotonic-stack
+    python stacks-queues/05-monotonic-stack.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/stacks-queues/days-until-warmer
 

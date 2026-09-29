@@ -30,6 +30,10 @@ Approach:
     is O(n log n) for the sort and O(n) for the sweep; space is O(n) for the
     output.
 
+The lesson behind it: Merge Intervals
+    https://bytepatterns.com/learn/intervals/merge-intervals
+    python intervals/02-merge-intervals.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/intervals/merge-overlapping-spans
 

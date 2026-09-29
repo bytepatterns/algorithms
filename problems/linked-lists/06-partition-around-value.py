@@ -29,6 +29,10 @@ Approach:
     whatever link it had in the original list and would otherwise loop back.
     Time is O(n) and space is O(1), since only links change.
 
+The lesson behind it: Traversal and Search
+    https://bytepatterns.com/learn/linked-lists/traversal-and-search
+    python linked-lists/02-traversal-and-search.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/linked-lists/partition-around-value
 

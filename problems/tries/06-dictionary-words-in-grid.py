@@ -37,6 +37,10 @@ Approach:
     the L minus 1) for words of length up to L, but the pruning keeps real
     inputs far below that; space is O(total word characters).
 
+The lesson behind it: Word Search With a Trie
+    https://bytepatterns.com/learn/tries/word-search-with-a-trie
+    python tries/03-word-search-with-a-trie.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/tries/dictionary-words-in-grid
 

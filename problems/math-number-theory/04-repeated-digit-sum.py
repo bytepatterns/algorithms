@@ -28,6 +28,10 @@ Approach:
     is 1 plus (n minus 1) modulo 9, with zero as the only number that ends
     at 0. No loop is needed. Time and space are O(1).
 
+The lesson behind it: Modular Arithmetic
+    https://bytepatterns.com/learn/math-number-theory/modular-arithmetic
+    python math-number-theory/01-modular-arithmetic.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/math-number-theory/repeated-digit-sum
 

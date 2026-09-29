@@ -29,6 +29,10 @@ Approach:
     with the zero factor handled up front so nothing is stripped away
     entirely. Time is O(i times j), and space is O(i + j).
 
+The lesson behind it: String Basics
+    https://bytepatterns.com/learn/strings/string-basics
+    python strings/01-string-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/strings/multiply-digit-strings
 

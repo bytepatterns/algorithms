@@ -29,6 +29,10 @@ Approach:
     stops as early as possible. Time is O(total characters) in the worst
     case, and space is O(1) beyond the returned slice.
 
+The lesson behind it: String Basics
+    https://bytepatterns.com/learn/strings/string-basics
+    python strings/01-string-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/strings/longest-shared-prefix
 

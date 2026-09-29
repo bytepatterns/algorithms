@@ -34,6 +34,10 @@ Approach:
     otherwise be read twice. Time is O(rows times cols) since each cell is
     read once, and space is O(1) beyond the output.
 
+The lesson behind it: Spiral Order
+    https://bytepatterns.com/learn/matrix-grid/spiral-order
+    python matrix-grid/02-spiral-order.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/arrays/spiral-grid-walk
 

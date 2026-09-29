@@ -29,6 +29,10 @@ Approach:
     inequality is essential. With 26 letters, time is O(n) over the rules
     and space is O(1).
 
+The lesson behind it: Path Compression
+    https://bytepatterns.com/learn/union-find/path-compression
+    python union-find/02-path-compression.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/union-find/consistent-equalities
 

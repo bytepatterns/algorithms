@@ -30,6 +30,10 @@ Approach:
     width instead of stopping early. Time is O(32), which is constant, and
     space is O(1).
 
+The lesson behind it: Binary and Bitwise Ops
+    https://bytepatterns.com/learn/bit-manipulation/binary-and-bitwise-ops
+    python bit-manipulation/01-binary-and-bitwise-ops.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/bit-manipulation/reverse-bit-order
 

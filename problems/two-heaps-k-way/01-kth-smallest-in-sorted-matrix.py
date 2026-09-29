@@ -28,6 +28,10 @@ Approach:
     grid, space is O(n) — far better than O(n² log n) for sorting everything
     when k is small.
 
+The lesson behind it: Kth Smallest in a Matrix
+    https://bytepatterns.com/learn/searching/kth-smallest-matrix
+    python searching/08-kth-smallest-matrix.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/two-heaps-k-way/kth-smallest-in-sorted-matrix
 

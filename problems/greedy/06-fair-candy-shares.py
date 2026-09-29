@@ -30,6 +30,10 @@ Approach:
     the first. Time is O(n) over two sweeps and space is O(n) for the
     counts.
 
+The lesson behind it: What Makes Greedy Work
+    https://bytepatterns.com/learn/greedy/what-makes-greedy-work
+    python greedy/01-what-makes-greedy-work.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/greedy/fair-candy-shares
 

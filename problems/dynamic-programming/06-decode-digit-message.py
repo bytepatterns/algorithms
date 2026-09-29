@@ -29,6 +29,10 @@ Approach:
     zeros and oversized pairs. Only the last two counts are ever needed, so
     two variables replace the table. Time is O(n) and space is O(1).
 
+The lesson behind it: Top-Down vs Bottom-Up
+    https://bytepatterns.com/learn/dynamic-programming/top-down-vs-bottom-up
+    python dynamic-programming/02-top-down-vs-bottom-up.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/decode-digit-message
 

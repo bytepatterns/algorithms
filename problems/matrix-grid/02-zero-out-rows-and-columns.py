@@ -37,6 +37,10 @@ Approach:
     for the marker-row trick would bring space down to O(1) at the cost of a
     much fussier implementation.
 
+The lesson behind it: Rotate In Place
+    https://bytepatterns.com/learn/matrix-grid/rotate-in-place
+    python matrix-grid/03-rotate-in-place.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/matrix-grid/zero-out-rows-and-columns
 

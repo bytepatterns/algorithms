@@ -27,6 +27,10 @@ Approach:
     k rather than in n. This beats full sorting whenever k is much smaller
     than the list. Time is O(n log k) and space is O(k).
 
+The lesson behind it: Top K Elements
+    https://bytepatterns.com/learn/heaps/top-k-elements
+    python heaps/04-top-k-elements.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/heaps/kth-largest-value
 

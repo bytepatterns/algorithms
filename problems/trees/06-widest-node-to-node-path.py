@@ -29,6 +29,10 @@ Approach:
     continue down one side. Each node is visited once. Time is O(n), and
     space is O(h) for the call stack.
 
+The lesson behind it: Diameter of a Tree
+    https://bytepatterns.com/learn/trees/tree-diameter
+    python trees/10-tree-diameter.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/trees/widest-node-to-node-path
 

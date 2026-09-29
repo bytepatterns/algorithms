@@ -32,6 +32,10 @@ Approach:
     the meeting point, both moving one step at a time, arrive at the entry
     together. Time is O(n) and space is O(1).
 
+The lesson behind it: Find the Cycle Start
+    https://bytepatterns.com/learn/linked-lists/find-the-cycle-start
+    python linked-lists/07-find-the-cycle-start.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/linked-lists/loop-entry-node
 

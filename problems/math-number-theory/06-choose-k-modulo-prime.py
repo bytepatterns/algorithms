@@ -30,6 +30,10 @@ Approach:
     Swapping k for n minus k when that is smaller halves the work. Time is
     O(min(k, n minus k) plus log p) and space is O(1).
 
+The lesson behind it: Permutations vs Combinations
+    https://bytepatterns.com/learn/math-number-theory/counting-permutations-combinations
+    python math-number-theory/05-counting-permutations-combinations.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/math-number-theory/choose-k-modulo-prime
 

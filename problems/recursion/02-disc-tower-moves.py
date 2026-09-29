@@ -29,6 +29,10 @@ Approach:
     needs no moves. The move count doubles with each disc plus one, so time
     is O(2 to the n) and the stack depth is O(n).
 
+The lesson behind it: The Call Stack
+    https://bytepatterns.com/learn/recursion/call-stack-visualized
+    python recursion/02-call-stack-visualized.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/recursion/disc-tower-moves
 

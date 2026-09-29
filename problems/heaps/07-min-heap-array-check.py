@@ -29,6 +29,10 @@ Approach:
     visits every parent-child pair exactly once. Time is O(n) and space is
     O(1).
 
+The lesson behind it: Heapify and Sift
+    https://bytepatterns.com/learn/heaps/heapify-and-sift
+    python heaps/02-heapify-and-sift.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/heaps/min-heap-array-check
 

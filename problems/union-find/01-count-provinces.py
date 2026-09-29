@@ -29,6 +29,10 @@ Approach:
     triangle has to be read, since the matrix is symmetric. Time is O(n² ·
     α(n)) dominated by reading the matrix, space O(n).
 
+The lesson behind it: Disjoint Sets Basics
+    https://bytepatterns.com/learn/union-find/disjoint-sets-basics
+    python union-find/01-disjoint-sets-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/union-find/count-provinces
 

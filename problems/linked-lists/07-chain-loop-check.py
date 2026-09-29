@@ -30,6 +30,10 @@ Approach:
     fast pointer must land exactly on the slow one. Time is O(n) and space
     is O(1).
 
+The lesson behind it: Detect a Cycle
+    https://bytepatterns.com/learn/linked-lists/detect-cycle
+    python linked-lists/06-detect-cycle.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/linked-lists/chain-loop-check
 

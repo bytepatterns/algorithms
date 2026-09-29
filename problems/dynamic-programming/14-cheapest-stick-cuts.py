@@ -31,6 +31,10 @@ Approach:
     smaller stretches are ready. Time is O(m cubed) and space is O(m
     squared) for m marks.
 
+The lesson behind it: Interval DP
+    https://bytepatterns.com/learn/dynamic-programming/matrix-chain-order
+    python dynamic-programming/16-matrix-chain-order.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/cheapest-stick-cuts
 

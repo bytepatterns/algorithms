@@ -30,6 +30,10 @@ Approach:
     would be unsound, which is why the counting approach is used instead.
     Time is O(n) on average, and space is O(n) for the map.
 
+The lesson behind it: Subarray Sums With a Map
+    https://bytepatterns.com/learn/hash-tables/subarray-sum-map
+    python hash-tables/06-subarray-sum-map.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/hash-tables/subarrays-summing-to-k
 

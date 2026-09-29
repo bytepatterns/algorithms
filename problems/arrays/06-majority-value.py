@@ -28,6 +28,10 @@ Approach:
     element starts a fresh round. Time is O(n) with one pass, and space is
     O(1).
 
+The lesson behind it: Majority Element
+    https://bytepatterns.com/learn/arrays/majority-element
+    python arrays/14-majority-element.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/arrays/majority-value
 

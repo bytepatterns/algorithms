@@ -36,6 +36,10 @@ Approach:
     because each cell is visited a constant number of times, and space is
     O(rows times cols) for the seen set.
 
+The lesson behind it: Number of Islands
+    https://bytepatterns.com/learn/matrix-grid/number-of-islands
+    python matrix-grid/04-number-of-islands.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/matrix-grid/landlocked-islands
 

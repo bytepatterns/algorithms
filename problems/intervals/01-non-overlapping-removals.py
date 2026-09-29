@@ -28,6 +28,10 @@ Approach:
     and the removals are whatever is left over. Sorting dominates at O(n log
     n) time, with O(1) extra space beyond the sort.
 
+The lesson behind it: Interval Basics & Sorting
+    https://bytepatterns.com/learn/intervals/interval-basics-and-sorting
+    python intervals/01-interval-basics-and-sorting.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/intervals/non-overlapping-removals
 

@@ -36,6 +36,10 @@ Approach:
     neighbours, so time is O(rows cols) and the stack is O(rows cols) in the
     worst case.
 
+The lesson behind it: Flood Fill
+    https://bytepatterns.com/learn/matrix-grid/flood-fill
+    python matrix-grid/05-flood-fill.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/matrix-grid/repaint-connected-region
 

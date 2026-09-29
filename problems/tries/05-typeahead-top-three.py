@@ -35,6 +35,10 @@ Approach:
     characters), and each keystroke is O(1) plus copying at most three
     names.
 
+The lesson behind it: Prefix Search
+    https://bytepatterns.com/learn/tries/prefix-search-and-autocomplete
+    python tries/02-prefix-search-and-autocomplete.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/tries/typeahead-top-three
 

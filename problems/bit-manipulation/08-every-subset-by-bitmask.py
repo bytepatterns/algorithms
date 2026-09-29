@@ -29,6 +29,10 @@ Approach:
     items[i], the members stay in their original order. Time is O(n times 2
     to the n) and space is the same for the output.
 
+The lesson behind it: Bitmask as a Set
+    https://bytepatterns.com/learn/bit-manipulation/bitmask-as-a-set
+    python bit-manipulation/05-bitmask-as-a-set.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/bit-manipulation/every-subset-by-bitmask
 

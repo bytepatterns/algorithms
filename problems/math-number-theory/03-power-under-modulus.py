@@ -28,6 +28,10 @@ Approach:
     modulus without changing the result. Time is O(log exp), and space is
     O(1).
 
+The lesson behind it: Fast Exponentiation
+    https://bytepatterns.com/learn/math-number-theory/fast-exponentiation
+    python math-number-theory/04-fast-exponentiation.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/math-number-theory/power-under-modulus
 

@@ -31,6 +31,10 @@ Approach:
     has k to the n leaves, so time is O(n times k to the n) and the
     recursion depth is O(n).
 
+The lesson behind it: The Decision Tree
+    https://bytepatterns.com/learn/backtracking/the-decision-tree
+    python backtracking/01-the-decision-tree.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/backtracking/phone-keypad-words
 

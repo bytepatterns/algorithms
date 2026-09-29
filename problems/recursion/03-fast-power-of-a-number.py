@@ -28,6 +28,10 @@ Approach:
     back. Negative exponents are handled once at the top by inverting the
     positive answer. Time is O(log exp) and the stack depth is the same.
 
+The lesson behind it: Factorial and Fibonacci
+    https://bytepatterns.com/learn/recursion/factorial-and-fibonacci
+    python recursion/03-factorial-and-fibonacci.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/recursion/fast-power-of-a-number
 

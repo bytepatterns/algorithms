@@ -29,6 +29,10 @@ Approach:
     is visited once, so time is O(n) in the total number of items, and the
     call stack is as deep as the nesting.
 
+The lesson behind it: Return Up or Pass Down
+    https://bytepatterns.com/learn/recursion/return-up-or-pass-down
+    python recursion/06-return-up-or-pass-down.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/recursion/depth-weighted-nested-sum
 

@@ -30,6 +30,10 @@ Approach:
     updated value would let a house borrow from itself. Time is O(n) and
     space is O(1), since only three numbers are kept.
 
+The lesson behind it: What Is Dynamic Programming?
+    https://bytepatterns.com/learn/dynamic-programming/what-is-dp
+    python dynamic-programming/01-what-is-dp.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/paint-houses-cheaply
 

@@ -27,6 +27,10 @@ Approach:
     exactly what the loop adds up. Time is O(log n) because the power grows
     fivefold each round, and space is O(1).
 
+The lesson behind it: Sieve of Eratosthenes
+    https://bytepatterns.com/learn/math-number-theory/sieve-of-eratosthenes
+    python math-number-theory/03-sieve-of-eratosthenes.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/math-number-theory/factorial-trailing-zeros
 

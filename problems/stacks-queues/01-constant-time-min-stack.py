@@ -28,6 +28,10 @@ Approach:
     minimum automatically and handles duplicate minimums correctly. Every
     operation is O(1) time, and space is O(n) for the extra stack.
 
+The lesson behind it: Min Stack
+    https://bytepatterns.com/learn/stacks-queues/min-stack
+    python stacks-queues/06-min-stack.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/stacks-queues/constant-time-min-stack
 

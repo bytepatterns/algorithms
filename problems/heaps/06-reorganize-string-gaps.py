@@ -27,6 +27,10 @@ Approach:
     ever runs dry before the output is full, no arrangement exists. Time is
     O(n log d) for d distinct letters, space O(d).
 
+The lesson behind it: Reorganize a String
+    https://bytepatterns.com/learn/heaps/reorganize-a-string
+    python heaps/06-reorganize-a-string.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/heaps/reorganize-string-gaps
 

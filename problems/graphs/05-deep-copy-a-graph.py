@@ -30,6 +30,10 @@ Approach:
     neighbour. Each node and edge is handled once, so time is O(V + E) and
     space is O(V).
 
+The lesson behind it: Depth-First Search
+    https://bytepatterns.com/learn/graphs/depth-first-search
+    python graphs/04-depth-first-search.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/deep-copy-a-graph
 

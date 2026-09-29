@@ -27,6 +27,10 @@ Approach:
     without finishing the scan. Time is O(n) on average, and space is O(n)
     in the worst case when all values are distinct.
 
+The lesson behind it: Frequency Counting
+    https://bytepatterns.com/learn/hash-tables/frequency-counting
+    python hash-tables/03-frequency-counting.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/hash-tables/repeated-value-check
 

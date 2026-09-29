@@ -30,6 +30,10 @@ Approach:
     value, and the two children are combined with a short-circuiting or.
     Time is O(n) in the worst case, and space is O(h) for the call stack.
 
+The lesson behind it: Path Sum Variants
+    https://bytepatterns.com/learn/trees/path-sum-variants
+    python trees/11-path-sum-variants.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/trees/root-to-leaf-target-sum
 

@@ -28,6 +28,10 @@ Approach:
     times as the answer. Time is O(number of differing bits), at most O(log
     of the larger input), and space is O(1).
 
+The lesson behind it: Counting Set Bits
+    https://bytepatterns.com/learn/bit-manipulation/counting-set-bits
+    python bit-manipulation/03-counting-set-bits.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/bit-manipulation/differing-bit-count
 

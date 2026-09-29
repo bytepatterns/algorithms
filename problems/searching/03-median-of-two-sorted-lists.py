@@ -33,6 +33,10 @@ Approach:
     Searching the shorter list gives time O(log of the smaller length), and
     space is O(1).
 
+The lesson behind it: Binary Search Variants
+    https://bytepatterns.com/learn/searching/binary-search-variants
+    python searching/03-binary-search-variants.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/searching/median-of-two-sorted-lists
 

@@ -29,6 +29,10 @@ Approach:
     than any real answer could use, and that becomes -1 at the end. Time is
     O(amount times number of coins), and space is O(amount).
 
+The lesson behind it: Coin Change
+    https://bytepatterns.com/learn/dynamic-programming/coin-change
+    python dynamic-programming/05-coin-change.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/fewest-coins-for-amount
 

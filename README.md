@@ -2,7 +2,7 @@
 
 **Every algorithm from [bytepatterns.com](https://bytepatterns.com?utm_source=github&utm_medium=readme&utm_campaign=algorithms) as a small Python file you can run, read and break.**
 
-![lessons](https://img.shields.io/badge/lessons-300-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-386-0a7cf5) ![problems](https://img.shields.io/badge/problems-150-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
+![lessons](https://img.shields.io/badge/lessons-312-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-386-0a7cf5) ![problems](https://img.shields.io/badge/problems-150-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
 
 236 lesson files across 26 modules, plus 150 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
 
@@ -52,13 +52,16 @@ Each file opens with the lesson's idea and a link back to its animation. The exa
 | Concurrency | 15 | 14 | [`concurrency/`](concurrency/) | [open](https://bytepatterns.com/learn/concurrency?utm_source=github&utm_medium=readme&utm_campaign=algorithms) |
 | SQL | 15 | 15 | [`sql/`](sql/) | [open](https://bytepatterns.com/learn/sql?utm_source=github&utm_medium=readme&utm_campaign=algorithms) |
 | Behavioral | 12 | 0 | concept lessons, read on the site | [open](https://bytepatterns.com/learn/behavioral?utm_source=github&utm_medium=readme&utm_campaign=algorithms) |
-| **Total** | **300** | **236** | | |
+| AWS for Interviews | 12 | 0 | illustrative (boto3/CLI), on the site | [open](https://bytepatterns.com/learn/aws?utm_source=github&utm_medium=readme&utm_campaign=algorithms) |
+| **Total** | **312** | **236** | | |
 
 System Design, System Design Cases, Behavioral: concept lessons (architecture, tradeoffs, interview stories) with no code to run. They live on the site. Lessons in other modules that teach a concept without code are skipped the same way.
 
+AWS lessons are illustrative (boto3/CLI) and live on the site, not here.
+
 ### Practice problems
 
-150 original problems (44 easy, 82 medium, 24 hard), each with the statement and examples as a docstring and a tested solution. Try them first on the site, where hints unlock one at a time.
+150 original problems (44 easy, 82 medium, 24 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
 
 | Topic | Problems | Easy | Medium | Hard | Folder |
 |---|---:|---:|---:|---:|---|

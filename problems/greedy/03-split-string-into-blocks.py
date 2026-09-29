@@ -28,6 +28,10 @@ Approach:
     longer only merges two pieces into one. Both passes are linear, so time
     is O(n) and space is O(1) for the fixed 26-letter map.
 
+The lesson behind it: What Makes Greedy Work
+    https://bytepatterns.com/learn/greedy/what-makes-greedy-work
+    python greedy/01-what-makes-greedy-work.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/greedy/split-string-into-blocks
 

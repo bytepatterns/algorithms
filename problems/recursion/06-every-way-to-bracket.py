@@ -32,6 +32,10 @@ Approach:
     The number of results grows like the Catalan numbers, which dominates
     both time and space.
 
+The lesson behind it: Memoization
+    https://bytepatterns.com/learn/recursion/memoization-intro
+    python recursion/04-memoization-intro.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/recursion/every-way-to-bracket
 

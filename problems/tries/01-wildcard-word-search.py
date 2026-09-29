@@ -29,6 +29,10 @@ Approach:
     case is O(26^d · m) for d dots — still far cheaper than scanning every
     word when dots are few.
 
+The lesson behind it: Trie Basics
+    https://bytepatterns.com/learn/tries/trie-basics
+    python tries/01-trie-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/tries/wildcard-word-search
 

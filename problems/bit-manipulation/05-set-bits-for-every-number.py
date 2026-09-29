@@ -27,6 +27,10 @@ Approach:
     entry costs one shift, one AND and one addition. Time is O(n) and the
     output list is O(n) space.
 
+The lesson behind it: Counting Set Bits
+    https://bytepatterns.com/learn/bit-manipulation/counting-set-bits
+    python bit-manipulation/03-counting-set-bits.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/bit-manipulation/set-bits-for-every-number
 

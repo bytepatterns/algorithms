@@ -34,6 +34,10 @@ Approach:
     with nothing fresh. Time is O(rows times cols) and space is the same for
     the queue.
 
+The lesson behind it: Multi-Source BFS
+    https://bytepatterns.com/learn/graphs/multi-source-bfs
+    python graphs/15-multi-source-bfs.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/spreading-rot-minutes
 

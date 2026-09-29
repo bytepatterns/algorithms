@@ -28,6 +28,10 @@ Approach:
     and the early return covers the empty list. Time is O(n) across three
     reversals, and space is O(1).
 
+The lesson behind it: Rotate an Array
+    https://bytepatterns.com/learn/arrays/rotate-array
+    python arrays/13-rotate-array.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/arrays/rotate-right-by-k
 

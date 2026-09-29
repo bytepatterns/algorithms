@@ -29,6 +29,10 @@ Approach:
     Each search is O(log n) and they run one after the other, so time is
     O(log n) and space is O(1).
 
+The lesson behind it: Binary Search Variants
+    https://bytepatterns.com/learn/searching/binary-search-variants
+    python searching/03-binary-search-variants.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/searching/first-and-last-occurrence
 

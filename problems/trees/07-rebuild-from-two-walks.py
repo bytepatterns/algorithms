@@ -30,6 +30,10 @@ Approach:
     correct value each time. Time is O(n) and space is O(n) for the map and
     the call stack.
 
+The lesson behind it: Rebuild From Traversals
+    https://bytepatterns.com/learn/trees/build-tree-from-traversals
+    python trees/14-build-tree-from-traversals.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/trees/rebuild-from-two-walks
 

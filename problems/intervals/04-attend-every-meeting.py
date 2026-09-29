@@ -29,6 +29,10 @@ Approach:
     strict less-than so that touching meetings pass. Time is O(n log n) for
     the sort, and space is O(n) for the sorted copy.
 
+The lesson behind it: Meeting Rooms
+    https://bytepatterns.com/learn/intervals/meeting-rooms
+    python intervals/04-meeting-rooms.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/intervals/attend-every-meeting
 

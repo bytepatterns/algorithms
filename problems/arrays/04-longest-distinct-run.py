@@ -28,6 +28,10 @@ Approach:
     lookups are constant time. Time is O(n), and space is O(d) where d is
     the number of distinct values.
 
+The lesson behind it: Longest Unique Substring
+    https://bytepatterns.com/learn/strings/longest-substring-without-repeats
+    python strings/04-longest-substring-without-repeats.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/arrays/longest-distinct-run
 

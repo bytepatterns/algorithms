@@ -29,6 +29,10 @@ Approach:
     Only the previous row is needed at any time, so two rows replace the
     full table. Time is O(len(a) times len(b)), and space is O(len(b)).
 
+The lesson behind it: Edit Distance
+    https://bytepatterns.com/learn/dynamic-programming/edit-distance
+    python dynamic-programming/08-edit-distance.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/fewest-edits-between-words
 

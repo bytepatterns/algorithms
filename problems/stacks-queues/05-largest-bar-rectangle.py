@@ -31,6 +31,10 @@ Approach:
     every remaining bar to be measured. Each position is pushed and popped
     once, so time is O(n) and space is O(n).
 
+The lesson behind it: Largest Rectangle
+    https://bytepatterns.com/learn/stacks-queues/largest-rectangle
+    python stacks-queues/09-largest-rectangle.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/stacks-queues/largest-bar-rectangle
 

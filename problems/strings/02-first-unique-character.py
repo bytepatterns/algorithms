@@ -28,6 +28,10 @@ Approach:
     first position rather than an arbitrary one. Time is O(n) and space is
     O(k) for the distinct characters.
 
+The lesson behind it: Frequency Counting
+    https://bytepatterns.com/learn/hash-tables/frequency-counting
+    python hash-tables/03-frequency-counting.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/strings/first-unique-character
 

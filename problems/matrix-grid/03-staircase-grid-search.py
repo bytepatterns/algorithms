@@ -30,6 +30,10 @@ Approach:
     one row or one column, so the search visits at most rows plus columns
     cells. Time is O(rows + cols), and space is O(1).
 
+The lesson behind it: Search a 2D Matrix
+    https://bytepatterns.com/learn/searching/search-2d-matrix
+    python searching/06-search-2d-matrix.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/matrix-grid/staircase-grid-search
 

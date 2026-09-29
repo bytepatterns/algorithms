@@ -29,6 +29,10 @@ Approach:
     collapse to a single one. Time is O(n log n) comparisons on short texts,
     and space is O(n).
 
+The lesson behind it: Which Sort When?
+    https://bytepatterns.com/learn/sorting/which-sort-when
+    python sorting/08-which-sort-when.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/sorting/largest-number-arrangement
 

@@ -29,6 +29,10 @@ Approach:
     positions, two rolling variables replace the full table. Time is O(n)
     and space is O(1).
 
+The lesson behind it: Climbing Stairs
+    https://bytepatterns.com/learn/dynamic-programming/climbing-stairs
+    python dynamic-programming/03-climbing-stairs.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/cheapest-stair-climb
 

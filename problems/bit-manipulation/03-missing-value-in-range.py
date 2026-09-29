@@ -26,6 +26,10 @@ Approach:
     Starting the accumulator at n is what supplies the one index the list
     does not have. Time is O(n) in a single pass, and space is O(1).
 
+The lesson behind it: XOR Tricks
+    https://bytepatterns.com/learn/bit-manipulation/xor-tricks
+    python bit-manipulation/02-xor-tricks.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/bit-manipulation/missing-value-in-range
 

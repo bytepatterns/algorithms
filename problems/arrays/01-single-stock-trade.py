@@ -29,6 +29,10 @@ Approach:
     day is always strictly earlier than the sell day. Time is O(n) with a
     single pass, and space is O(1) since only two numbers are stored.
 
+The lesson behind it: Kadane's Algorithm
+    https://bytepatterns.com/learn/arrays/kadanes-algorithm
+    python arrays/08-kadanes-algorithm.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/arrays/single-stock-trade
 

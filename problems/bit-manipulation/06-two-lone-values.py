@@ -29,6 +29,10 @@ Approach:
     bit is found with x AND negative x. Time is O(n) over two passes and
     space is O(1).
 
+The lesson behind it: XOR Tricks
+    https://bytepatterns.com/learn/bit-manipulation/xor-tricks
+    python bit-manipulation/02-xor-tricks.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/bit-manipulation/two-lone-values
 

@@ -30,6 +30,10 @@ Approach:
     shrinks to exactly one position, which is therefore a peak. Time is
     O(log n), and space is O(1).
 
+The lesson behind it: Find a Peak
+    https://bytepatterns.com/learn/searching/find-peak-element
+    python searching/07-find-peak-element.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/searching/peak-in-bumpy-list
 

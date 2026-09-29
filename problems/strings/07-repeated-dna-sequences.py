@@ -28,6 +28,10 @@ Approach:
     free of duplicates. Time is O(n) and space is O(n) in the number of
     distinct windows.
 
+The lesson behind it: Rabin-Karp Rolling Hash
+    https://bytepatterns.com/learn/strings/rabin-karp-rolling-hash
+    python strings/06-rabin-karp-rolling-hash.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/strings/repeated-dna-sequences
 

@@ -29,6 +29,10 @@ Approach:
     empty subtree behave correctly inside every product. Time is O(n
     squared) for the double loop, and space is O(n).
 
+The lesson behind it: BST Basics
+    https://bytepatterns.com/learn/trees/bst-basics
+    python trees/04-bst-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/unique-bst-shapes
 

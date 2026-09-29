@@ -29,6 +29,10 @@ Approach:
     the range halves each round, so time is O(n log(total weight)) and space
     is O(1).
 
+The lesson behind it: Binary Search on Answer
+    https://bytepatterns.com/learn/searching/binary-search-on-answer
+    python searching/05-binary-search-on-answer.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/searching/minimum-daily-capacity
 

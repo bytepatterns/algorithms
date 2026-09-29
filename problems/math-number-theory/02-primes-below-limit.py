@@ -27,6 +27,10 @@ Approach:
     the outer walk can stop at the square root of the limit for the same
     reason. Time is O(n log log n) and space is O(n) flags.
 
+The lesson behind it: Sieve of Eratosthenes
+    https://bytepatterns.com/learn/math-number-theory/sieve-of-eratosthenes
+    python math-number-theory/03-sieve-of-eratosthenes.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/math-number-theory/primes-below-limit
 

@@ -28,6 +28,10 @@ Approach:
     one position early so standing on the last index never costs a hop. Time
     is O(n) and space is O(1).
 
+The lesson behind it: Jump Game
+    https://bytepatterns.com/learn/greedy/jump-game
+    python greedy/03-jump-game.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/greedy/fewest-hops-to-the-end
 

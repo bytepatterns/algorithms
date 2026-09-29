@@ -28,6 +28,10 @@ Approach:
     visited once by the inner loop overall, so time is O(n) and space is
     O(1) beyond the output.
 
+The lesson behind it: Interval Basics & Sorting
+    https://bytepatterns.com/learn/intervals/interval-basics-and-sorting
+    python intervals/01-interval-basics-and-sorting.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/intervals/condense-values-into-ranges
 

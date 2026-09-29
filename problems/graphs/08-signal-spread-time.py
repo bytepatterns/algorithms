@@ -32,6 +32,10 @@ Approach:
     latest arrival. Time is O((n + m) log m) for m links, and space is O(n +
     m).
 
+The lesson behind it: Dijkstra's Algorithm
+    https://bytepatterns.com/learn/graphs/dijkstra-intro
+    python graphs/07-dijkstra-intro.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/signal-spread-time
 

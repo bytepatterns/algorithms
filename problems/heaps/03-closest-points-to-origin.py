@@ -29,6 +29,10 @@ Approach:
     negating the coordinates makes the eviction prefer to drop the larger
     ones on a tie. Time is O(n log k) and space is O(k).
 
+The lesson behind it: K Closest Points
+    https://bytepatterns.com/learn/heaps/k-closest-points
+    python heaps/05-k-closest-points.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/heaps/closest-points-to-origin
 

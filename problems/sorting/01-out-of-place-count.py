@@ -31,6 +31,10 @@ Approach:
     correct whoever is standing there. Time is O(n log n) for the sort, and
     space is O(n) for the copy.
 
+The lesson behind it: Sorting Basics
+    https://bytepatterns.com/learn/sorting/sorting-basics
+    python sorting/01-sorting-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/sorting/out-of-place-count
 

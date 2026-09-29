@@ -28,6 +28,10 @@ Approach:
     scan can stop at the first failure. Time is O(n log n) for the sort,
     space O(1) beyond it.
 
+The lesson behind it: Sorting Basics
+    https://bytepatterns.com/learn/sorting/sorting-basics
+    python sorting/01-sorting-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/sorting/h-index-from-citations
 

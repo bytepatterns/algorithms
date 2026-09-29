@@ -30,6 +30,10 @@ Approach:
     kept end. Time is O(n log n) for the sort plus O(n) for the walk, and
     space is O(1) beyond the sort.
 
+The lesson behind it: Interval Scheduling
+    https://bytepatterns.com/learn/greedy/interval-scheduling
+    python greedy/02-interval-scheduling.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/greedy/fewest-removals-to-unclash
 

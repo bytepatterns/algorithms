@@ -30,6 +30,10 @@ Approach:
     previous one is what handles an interval fully contained inside another.
     Time is O(n log n) for the sort, space O(n) for the pooled list.
 
+The lesson behind it: Merge Intervals
+    https://bytepatterns.com/learn/intervals/merge-intervals
+    python intervals/02-merge-intervals.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/intervals/employee-free-time
 

@@ -31,6 +31,10 @@ Approach:
     arrival costs a logarithm. Time is O(n log n) overall, and space is
     O(n).
 
+The lesson behind it: Priority Queue
+    https://bytepatterns.com/learn/heaps/priority-queue
+    python heaps/03-priority-queue.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/heaps/running-median-stream
 

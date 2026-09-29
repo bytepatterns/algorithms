@@ -30,6 +30,10 @@ Approach:
     keeps the digit and the next carry together. Time is O(max of the two
     lengths), and space is O(1) beyond the returned list.
 
+The lesson behind it: Singly Linked List Basics
+    https://bytepatterns.com/learn/linked-lists/singly-linked-list-basics
+    python linked-lists/01-singly-linked-list-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/linked-lists/add-two-digit-chains
 

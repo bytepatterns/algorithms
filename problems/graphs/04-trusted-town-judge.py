@@ -28,6 +28,10 @@ Approach:
     One pass over the pairs and one over the people is all it takes. Time is
     O(n + p) for p pairs, and space is O(n).
 
+The lesson behind it: Graph Basics
+    https://bytepatterns.com/learn/graphs/graph-basics
+    python graphs/01-graph-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/trusted-town-judge
 

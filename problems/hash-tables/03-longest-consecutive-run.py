@@ -28,6 +28,10 @@ Approach:
     what keeps the nested loop linear overall. Time is O(n) on average, and
     space is O(n) for the set.
 
+The lesson behind it: Hash Table Basics
+    https://bytepatterns.com/learn/hash-tables/hash-table-basics
+    python hash-tables/01-hash-table-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/hash-tables/longest-consecutive-run
 

@@ -32,6 +32,10 @@ Approach:
     width guarantees sub-stretches are ready when needed. Time is O(n cubed)
     and space is O(n squared).
 
+The lesson behind it: Interval DP
+    https://bytepatterns.com/learn/dynamic-programming/matrix-chain-order
+    python dynamic-programming/16-matrix-chain-order.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/pop-balloons-for-coins
 

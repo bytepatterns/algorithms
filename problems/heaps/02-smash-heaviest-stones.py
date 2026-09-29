@@ -30,6 +30,10 @@ Approach:
     ends with either one stone or none. Time is O(n log n), and space is
     O(n) for the heap.
 
+The lesson behind it: Heap Basics
+    https://bytepatterns.com/learn/heaps/heap-basics
+    python heaps/01-heap-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/heaps/smash-heaviest-stones
 

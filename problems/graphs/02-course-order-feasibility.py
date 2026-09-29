@@ -30,6 +30,10 @@ Approach:
     requirements contradict each other. Time is O(n + p) for n courses and p
     pairs, and space is O(n + p).
 
+The lesson behind it: Topological Sort
+    https://bytepatterns.com/learn/graphs/topological-sort
+    python graphs/08-topological-sort.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/course-order-feasibility
 

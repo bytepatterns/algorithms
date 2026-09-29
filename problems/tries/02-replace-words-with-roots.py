@@ -29,6 +29,10 @@ Approach:
     Total time is O(R + S) over root and sentence characters, with O(R)
     space.
 
+The lesson behind it: Prefix Search
+    https://bytepatterns.com/learn/tries/prefix-search-and-autocomplete
+    python tries/02-prefix-search-and-autocomplete.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/tries/replace-words-with-roots
 

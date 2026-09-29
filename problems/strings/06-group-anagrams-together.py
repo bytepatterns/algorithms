@@ -28,6 +28,10 @@ Approach:
     sorting the letters, not by comparing words to each other. A count-of-26
     tuple replaces the inner sort with O(k) when the alphabet is fixed.
 
+The lesson behind it: Group Anagrams
+    https://bytepatterns.com/learn/hash-tables/group-anagrams
+    python hash-tables/04-group-anagrams.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/strings/group-anagrams-together
 

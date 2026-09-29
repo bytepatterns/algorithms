@@ -32,6 +32,10 @@ Approach:
     guarantees the survivor completes the loop. Time is O(n) and space is
     O(1).
 
+The lesson behind it: Gas Station
+    https://bytepatterns.com/learn/greedy/gas-station
+    python greedy/04-gas-station.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/greedy/circular-fuel-route
 

@@ -29,6 +29,10 @@ Approach:
     position is pushed and popped at most once, so time is O(n) and space is
     O(k).
 
+The lesson behind it: Sliding Window Maximum
+    https://bytepatterns.com/learn/stacks-queues/sliding-window-maximum
+    python stacks-queues/07-sliding-window-maximum.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/arrays/window-maximums
 

@@ -29,6 +29,10 @@ Approach:
     the bit of 1, 4, 16 and 64 but drops the bit of 2, 8 and 32. Time and
     space are O(1).
 
+The lesson behind it: Masks and Power of Two
+    https://bytepatterns.com/learn/bit-manipulation/masks-and-power-of-two
+    python bit-manipulation/04-masks-and-power-of-two.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/bit-manipulation/power-of-four-check
 

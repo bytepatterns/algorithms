@@ -31,6 +31,10 @@ Approach:
     then takes one profit. Every project moves between heaps at most once,
     so the total is O(n log n) time and O(n) space.
 
+The lesson behind it: Two Heaps: Running Median
+    https://bytepatterns.com/learn/two-heaps-k-way/two-heaps-running-median
+    python two-heaps-k-way/01-two-heaps-running-median.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/two-heaps-k-way/capital-project-picks
 

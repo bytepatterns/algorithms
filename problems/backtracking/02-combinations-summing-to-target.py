@@ -30,6 +30,10 @@ Approach:
     number of valid groups times the target divided by the smallest value;
     recursion depth is that same ratio.
 
+The lesson behind it: Subsets
+    https://bytepatterns.com/learn/backtracking/subsets
+    python backtracking/02-subsets.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/backtracking/combinations-summing-to-target
 

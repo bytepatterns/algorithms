@@ -33,6 +33,10 @@ Approach:
     constant number of times, so time is O(n squared) and extra space is
     O(1).
 
+The lesson behind it: Rotate In Place
+    https://bytepatterns.com/learn/matrix-grid/rotate-in-place
+    python matrix-grid/03-rotate-in-place.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/matrix-grid/rotate-square-grid
 

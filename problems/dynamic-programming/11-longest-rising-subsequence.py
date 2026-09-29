@@ -29,6 +29,10 @@ Approach:
     to right means every earlier entry is final before it is read, and the
     answer is the largest entry. Time is O(n squared) and space is O(n).
 
+The lesson behind it: Longest Increasing Subsequence
+    https://bytepatterns.com/learn/dynamic-programming/longest-increasing-subsequence
+    python dynamic-programming/09-longest-increasing-subsequence.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/longest-rising-subsequence
 

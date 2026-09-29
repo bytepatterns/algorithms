@@ -31,6 +31,10 @@ Approach:
     flight, so each round reads from the previous round's prices and writes
     to a fresh copy. Time is O(k times m) for m flights, and space is O(n).
 
+The lesson behind it: Bellman-Ford
+    https://bytepatterns.com/learn/graphs/bellman-ford
+    python graphs/09-bellman-ford.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/cheapest-trip-stop-limit
 

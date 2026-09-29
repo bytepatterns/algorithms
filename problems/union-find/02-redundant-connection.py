@@ -29,6 +29,10 @@ Approach:
     on that first collision also satisfies the "added last" rule, because no
     later link can close another cycle. Time is O(n · α(n)), space O(n).
 
+The lesson behind it: Components & Cycles
+    https://bytepatterns.com/learn/union-find/components-and-cycles
+    python union-find/04-components-and-cycles.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/union-find/redundant-connection
 

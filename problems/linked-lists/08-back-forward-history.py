@@ -29,6 +29,10 @@ Approach:
     and stop at the first missing link, so overshooting is harmless. A visit
     is O(1), a move of k steps is O(k), and space is O(number of visits).
 
+The lesson behind it: Doubly Linked Lists
+    https://bytepatterns.com/learn/linked-lists/doubly-linked-lists
+    python linked-lists/10-doubly-linked-lists.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/linked-lists/back-forward-history
 

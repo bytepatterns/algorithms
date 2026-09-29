@@ -30,6 +30,10 @@ Approach:
     factorial but pruning keeps it far smaller in practice; the depth is
     O(n) and the sets hold O(n) keys.
 
+The lesson behind it: N-Queens
+    https://bytepatterns.com/learn/backtracking/n-queens
+    python backtracking/04-n-queens.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/backtracking/count-queen-placements
 

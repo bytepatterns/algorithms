@@ -30,6 +30,10 @@ Approach:
     keeps a single pass with three variables instead of a table. Time is
     O(n) and space is O(1).
 
+The lesson behind it: DP as a State Machine
+    https://bytepatterns.com/learn/dynamic-programming/stock-state-machine
+    python dynamic-programming/20-stock-state-machine.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/trading-with-cooldown
 

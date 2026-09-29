@@ -27,6 +27,10 @@ Approach:
     sorted, so the remainder is attached in one move instead of node by
     node. Time is O(n + m) and space is O(1), since only pointers change.
 
+The lesson behind it: Merge Two Sorted Lists
+    https://bytepatterns.com/learn/linked-lists/merge-two-sorted-lists
+    python linked-lists/08-merge-two-sorted-lists.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/linked-lists/merge-sorted-chains
 

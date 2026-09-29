@@ -28,6 +28,10 @@ Approach:
     maximum to the next one's minimum. Time is O(n) plus the cost of
     visiting the buckets in order, space O(n).
 
+The lesson behind it: Counting Sort
+    https://bytepatterns.com/learn/sorting/counting-sort
+    python sorting/07-counting-sort.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/sorting/maximum-gap-buckets
 

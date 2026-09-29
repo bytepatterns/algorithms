@@ -28,6 +28,10 @@ Approach:
     after an unhook is the classic bug here, since it skips consecutive
     matches. Time is O(n) and space is O(1).
 
+The lesson behind it: Insert and Delete
+    https://bytepatterns.com/learn/linked-lists/insert-and-delete
+    python linked-lists/03-insert-and-delete.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/linked-lists/remove-value-nodes
 

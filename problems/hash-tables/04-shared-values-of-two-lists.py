@@ -28,6 +28,10 @@ Approach:
     post-processing. Time is O(n + m) on average, and space is O(m) for the
     lookup set plus the reported values.
 
+The lesson behind it: Hash Table Basics
+    https://bytepatterns.com/learn/hash-tables/hash-table-basics
+    python hash-tables/01-hash-table-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/hash-tables/shared-values-of-two-lists
 

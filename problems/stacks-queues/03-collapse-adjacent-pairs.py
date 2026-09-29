@@ -28,6 +28,10 @@ Approach:
     without rescanning. Each character is pushed and popped at most once.
     Time is O(n) and space is O(n) for the stack.
 
+The lesson behind it: Valid Parentheses
+    https://bytepatterns.com/learn/stacks-queues/valid-parentheses
+    python stacks-queues/02-valid-parentheses.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/stacks-queues/collapse-adjacent-pairs
 

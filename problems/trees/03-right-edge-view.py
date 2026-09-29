@@ -28,6 +28,10 @@ Approach:
     left subtree. Nodes below a hidden one still get queued, so lower levels
     remain complete. Time is O(n) and space is O(w) for the widest level.
 
+The lesson behind it: Breadth-First Search
+    https://bytepatterns.com/learn/graphs/breadth-first-search
+    python graphs/03-breadth-first-search.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/trees/right-edge-view
 

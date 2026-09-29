@@ -28,6 +28,10 @@ Approach:
     Each of the n numbers is inserted once and queried once over b bits,
     giving O(n·b) time and O(n·b) space instead of O(n²).
 
+The lesson behind it: Trie vs Hash Set
+    https://bytepatterns.com/learn/tries/trie-vs-hash-set
+    python tries/04-trie-vs-hash-set.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/tries/maximum-xor-pair
 

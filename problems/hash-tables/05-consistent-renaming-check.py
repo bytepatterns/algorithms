@@ -30,6 +30,10 @@ Approach:
     sight and comparing thereafter does both checks in one pass. Time is
     O(n) on average, and space is O(k) for the distinct characters.
 
+The lesson behind it: Hash Table Basics
+    https://bytepatterns.com/learn/hash-tables/hash-table-basics
+    python hash-tables/01-hash-table-basics.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/hash-tables/consistent-renaming-check
 

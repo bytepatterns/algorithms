@@ -30,6 +30,10 @@ Approach:
     precisely the "leave before board" rule. Time is O(n log n) for the
     sort, space O(n) for the events.
 
+The lesson behind it: Meeting Rooms
+    https://bytepatterns.com/learn/intervals/meeting-rooms
+    python intervals/04-meeting-rooms.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/intervals/car-pooling-capacity
 

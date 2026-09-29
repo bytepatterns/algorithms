@@ -30,6 +30,10 @@ Approach:
     copied out. Worst case, on a string of identical characters, time is O(n
     times 2 to the n).
 
+The lesson behind it: Word Search & Pruning
+    https://bytepatterns.com/learn/backtracking/word-search-and-pruning
+    python backtracking/05-word-search-and-pruning.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/backtracking/split-into-palindrome-pieces
 

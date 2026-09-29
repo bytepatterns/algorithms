@@ -29,6 +29,10 @@ Approach:
     rather than taking a root keeps everything in whole numbers. Time is
     O(log n), and space is O(1).
 
+The lesson behind it: Binary Search
+    https://bytepatterns.com/learn/searching/binary-search
+    python searching/02-binary-search.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/searching/integer-square-root
 

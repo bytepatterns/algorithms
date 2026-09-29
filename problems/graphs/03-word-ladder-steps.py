@@ -31,6 +31,10 @@ Approach:
     always the shortest. Time is O(N times L times 26) for N words of length
     L, and space is O(N times L).
 
+The lesson behind it: Graphs You Never Build
+    https://bytepatterns.com/learn/graphs/implicit-graph-bfs
+    python graphs/14-implicit-graph-bfs.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/graphs/word-ladder-steps
 

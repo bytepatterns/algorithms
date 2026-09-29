@@ -29,6 +29,10 @@ Approach:
     the better state after the last plot. Time is O(n) with one pass, and
     space is O(1).
 
+The lesson behind it: House Robber
+    https://bytepatterns.com/learn/dynamic-programming/house-robber
+    python dynamic-programming/04-house-robber.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/dynamic-programming/non-adjacent-harvest
 

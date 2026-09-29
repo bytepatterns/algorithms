@@ -29,6 +29,10 @@ Approach:
     Sorting the k survivors in reverse gives the final order. Time is O(n +
     d log k) for d distinct values, and space is O(d).
 
+The lesson behind it: Top K in a Stream
+    https://bytepatterns.com/learn/two-heaps-k-way/top-k-frequent-stream
+    python two-heaps-k-way/03-top-k-frequent-stream.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/two-heaps-k-way/k-most-frequent-values
 

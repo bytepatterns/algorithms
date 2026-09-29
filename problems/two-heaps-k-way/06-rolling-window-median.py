@@ -31,6 +31,10 @@ Approach:
     or one more. Each value is pushed and popped a constant number of times,
     so time is O(n log n) and space is O(n).
 
+The lesson behind it: Sliding Window Median
+    https://bytepatterns.com/learn/two-heaps-k-way/sliding-window-median
+    python two-heaps-k-way/04-sliding-window-median.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/two-heaps-k-way/rolling-window-median
 

@@ -30,6 +30,10 @@ Approach:
     found. Each character enters and leaves the window once. Time is O(n +
     m), and space is O(k) for the distinct required characters.
 
+The lesson behind it: Sliding Window
+    https://bytepatterns.com/learn/arrays/sliding-window
+    python arrays/03-sliding-window.py
+
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/strings/minimum-window-cover
 
