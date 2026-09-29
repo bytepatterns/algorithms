@@ -10,6 +10,8 @@ Lesson 6 of Concurrency, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/concurrency/producer-consumer
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python concurrency/06-producer-consumer.py
 """
 

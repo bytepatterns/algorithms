@@ -12,6 +12,8 @@ Lesson 9 of Arrays, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/arrays/cyclic-sort
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python arrays/09-cyclic-sort.py
 """
 

@@ -10,6 +10,8 @@ Lesson 7 of Arrays, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/arrays/container-with-most-water
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python arrays/07-container-with-most-water.py
 """
 
