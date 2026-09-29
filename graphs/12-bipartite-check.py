@@ -10,6 +10,8 @@ Lesson 12 of Graphs, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/graphs/bipartite-check
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python graphs/12-bipartite-check.py
 """
 

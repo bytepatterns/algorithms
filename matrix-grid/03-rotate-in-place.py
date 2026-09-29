@@ -12,6 +12,8 @@ Lesson 3 of Matrix & Grid, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/matrix-grid/rotate-in-place
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python matrix-grid/03-rotate-in-place.py
 """
 

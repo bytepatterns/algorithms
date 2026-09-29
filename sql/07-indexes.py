@@ -10,6 +10,8 @@ Lesson 7 of SQL, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/sql/indexes
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python sql/07-indexes.py
 """
 

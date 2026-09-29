@@ -9,6 +9,8 @@ Lesson 4 of Concurrency, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/concurrency/deadlock
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python concurrency/04-deadlock.py
 """
 

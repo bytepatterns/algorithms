@@ -12,6 +12,8 @@ Lesson 6 of Strings, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/strings/rabin-karp-rolling-hash
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python strings/06-rabin-karp-rolling-hash.py
 """
 
