@@ -13,6 +13,8 @@ Lesson 9 of Linked Lists, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/linked-lists/copy-list-with-random-pointer
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python linked-lists/09-copy-list-with-random-pointer.py
 """
 

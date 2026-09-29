@@ -11,6 +11,8 @@ Lesson 6 of Searching, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/searching/search-2d-matrix
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python searching/06-search-2d-matrix.py
 """
 

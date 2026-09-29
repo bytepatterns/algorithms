@@ -12,6 +12,8 @@ Lesson 8 of Hash Tables, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/hash-tables/lfu-frequency-buckets
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python hash-tables/08-lfu-frequency-buckets.py
 """
 

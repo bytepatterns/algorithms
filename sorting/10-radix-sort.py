@@ -12,6 +12,8 @@ Lesson 10 of Sorting, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/sorting/radix-sort
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python sorting/10-radix-sort.py
 """
 

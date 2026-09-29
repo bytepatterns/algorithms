@@ -12,6 +12,8 @@ Lesson 4 of Intervals, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/intervals/meeting-rooms
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python intervals/04-meeting-rooms.py
 """
 

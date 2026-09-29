@@ -11,6 +11,8 @@ Lesson 13 of Dynamic Programming, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/dynamic-programming/partition-equal-subset
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python dynamic-programming/13-partition-equal-subset.py
 """
 
