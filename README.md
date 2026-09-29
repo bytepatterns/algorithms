@@ -2,9 +2,9 @@
 
 **Every algorithm from [bytepatterns.com](https://bytepatterns.com?utm_source=github&utm_medium=readme&utm_campaign=algorithms) as a small Python file you can run, read and break.**
 
-![lessons](https://img.shields.io/badge/lessons-312-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-386-0a7cf5) ![problems](https://img.shields.io/badge/problems-150-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
+![lessons](https://img.shields.io/badge/lessons-324-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-406-0a7cf5) ![problems](https://img.shields.io/badge/problems-170-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
 
-236 lesson files across 26 modules, plus 150 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
+236 lesson files across 26 modules, plus 170 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
 
 ## Watch it, then run it
 
@@ -53,7 +53,8 @@ Each file opens with the lesson's idea and a link back to its animation. The exa
 | SQL | 15 | 15 | [`sql/`](sql/) | [open](https://bytepatterns.com/learn/sql?utm_source=github&utm_medium=readme&utm_campaign=algorithms) |
 | Behavioral | 12 | 0 | concept lessons, read on the site | [open](https://bytepatterns.com/learn/behavioral?utm_source=github&utm_medium=readme&utm_campaign=algorithms) |
 | AWS for Interviews | 12 | 0 | illustrative (boto3/CLI), on the site | [open](https://bytepatterns.com/learn/aws?utm_source=github&utm_medium=readme&utm_campaign=algorithms) |
-| **Total** | **312** | **236** | | |
+| Docker & Kubernetes for Interviews | 12 | 0 | illustrative (boto3/CLI), on the site | [open](https://bytepatterns.com/learn/kubernetes?utm_source=github&utm_medium=readme&utm_campaign=algorithms) |
+| **Total** | **324** | **236** | | |
 
 System Design, System Design Cases, Behavioral: concept lessons (architecture, tradeoffs, interview stories) with no code to run. They live on the site. Lessons in other modules that teach a concept without code are skipped the same way.
 
@@ -61,31 +62,31 @@ AWS lessons are illustrative (boto3/CLI) and live on the site, not here.
 
 ### Practice problems
 
-150 original problems (44 easy, 82 medium, 24 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
+170 original problems (50 easy, 92 medium, 28 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
 
 | Topic | Problems | Easy | Medium | Hard | Folder |
 |---|---:|---:|---:|---:|---|
-| Arrays | 8 | 3 | 4 | 1 | [`problems/arrays/`](problems/arrays/) |
-| Strings | 7 | 2 | 4 | 1 | [`problems/strings/`](problems/strings/) |
-| Searching | 5 | 1 | 3 | 1 | [`problems/searching/`](problems/searching/) |
-| Sorting | 5 | 1 | 3 | 1 | [`problems/sorting/`](problems/sorting/) |
+| Arrays | 12 | 4 | 5 | 3 | [`problems/arrays/`](problems/arrays/) |
+| Strings | 10 | 4 | 4 | 2 | [`problems/strings/`](problems/strings/) |
+| Searching | 7 | 2 | 4 | 1 | [`problems/searching/`](problems/searching/) |
+| Sorting | 7 | 2 | 4 | 1 | [`problems/sorting/`](problems/sorting/) |
 | Linked Lists | 9 | 4 | 5 | 0 | [`problems/linked-lists/`](problems/linked-lists/) |
 | Stacks & Queues | 5 | 2 | 2 | 1 | [`problems/stacks-queues/`](problems/stacks-queues/) |
 | Hash Tables | 6 | 3 | 3 | 0 | [`problems/hash-tables/`](problems/hash-tables/) |
 | Recursion | 6 | 2 | 4 | 0 | [`problems/recursion/`](problems/recursion/) |
-| Backtracking | 6 | 1 | 4 | 1 | [`problems/backtracking/`](problems/backtracking/) |
+| Backtracking | 7 | 1 | 5 | 1 | [`problems/backtracking/`](problems/backtracking/) |
 | Greedy | 7 | 1 | 5 | 1 | [`problems/greedy/`](problems/greedy/) |
-| Trees & BST | 7 | 3 | 3 | 1 | [`problems/trees/`](problems/trees/) |
+| Trees & BST | 9 | 4 | 4 | 1 | [`problems/trees/`](problems/trees/) |
 | Tries | 6 | 1 | 3 | 2 | [`problems/tries/`](problems/tries/) |
-| Heaps | 7 | 2 | 4 | 1 | [`problems/heaps/`](problems/heaps/) |
+| Heaps | 8 | 2 | 5 | 1 | [`problems/heaps/`](problems/heaps/) |
 | Two Heaps & K-Way Merge | 7 | 1 | 3 | 3 | [`problems/two-heaps-k-way/`](problems/two-heaps-k-way/) |
-| Graphs | 11 | 1 | 7 | 3 | [`problems/graphs/`](problems/graphs/) |
-| Matrix & Grid | 7 | 2 | 4 | 1 | [`problems/matrix-grid/`](problems/matrix-grid/) |
+| Graphs | 12 | 1 | 8 | 3 | [`problems/graphs/`](problems/graphs/) |
+| Matrix & Grid | 8 | 2 | 5 | 1 | [`problems/matrix-grid/`](problems/matrix-grid/) |
 | Union-Find | 6 | 1 | 4 | 1 | [`problems/union-find/`](problems/union-find/) |
 | Intervals | 7 | 2 | 4 | 1 | [`problems/intervals/`](problems/intervals/) |
-| Bit Manipulation | 8 | 6 | 2 | 0 | [`problems/bit-manipulation/`](problems/bit-manipulation/) |
+| Bit Manipulation | 9 | 6 | 3 | 0 | [`problems/bit-manipulation/`](problems/bit-manipulation/) |
 | Math & Number Theory | 6 | 2 | 4 | 0 | [`problems/math-number-theory/`](problems/math-number-theory/) |
-| Dynamic Programming | 14 | 3 | 7 | 4 | [`problems/dynamic-programming/`](problems/dynamic-programming/) |
+| Dynamic Programming | 16 | 3 | 8 | 5 | [`problems/dynamic-programming/`](problems/dynamic-programming/) |
 
 ## Run it
 

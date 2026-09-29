@@ -13,6 +13,8 @@ Lesson 4 of Two Heaps & K-Way Merge, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/two-heaps-k-way/sliding-window-median
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python two-heaps-k-way/04-sliding-window-median.py
 """
 

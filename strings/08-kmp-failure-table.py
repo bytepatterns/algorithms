@@ -12,6 +12,8 @@ Lesson 8 of Strings, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/strings/kmp-failure-table
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python strings/08-kmp-failure-table.py
 """
 

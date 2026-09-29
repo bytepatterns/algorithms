@@ -10,6 +10,8 @@ Lesson 8 of Trees & BST, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/trees/lowest-common-ancestor
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python trees/08-lowest-common-ancestor.py
 """
 

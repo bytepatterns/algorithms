@@ -12,6 +12,8 @@ Lesson 2 of Union-Find, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/union-find/path-compression
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python union-find/02-path-compression.py
 """
 

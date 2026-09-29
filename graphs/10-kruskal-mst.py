@@ -11,6 +11,8 @@ Lesson 10 of Graphs, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/graphs/kruskal-mst
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python graphs/10-kruskal-mst.py
 """
 
