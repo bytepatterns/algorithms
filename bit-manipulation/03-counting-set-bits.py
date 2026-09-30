@@ -11,6 +11,8 @@ Lesson 3 of Bit Manipulation, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/bit-manipulation/counting-set-bits
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python bit-manipulation/03-counting-set-bits.py
 """
 

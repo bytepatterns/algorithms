@@ -14,6 +14,8 @@ Lesson 4 of Greedy, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/greedy/gas-station
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python greedy/04-gas-station.py
 """
 

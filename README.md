@@ -2,9 +2,9 @@
 
 **Every algorithm from [bytepatterns.com](https://bytepatterns.com?utm_source=github&utm_medium=readme&utm_campaign=algorithms) as a small Python file you can run, read and break.**
 
-![lessons](https://img.shields.io/badge/lessons-324-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-486-0a7cf5) ![problems](https://img.shields.io/badge/problems-250-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
+![lessons](https://img.shields.io/badge/lessons-324-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-506-0a7cf5) ![problems](https://img.shields.io/badge/problems-270-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
 
-236 lesson files across 26 modules, plus 250 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
+236 lesson files across 26 modules, plus 270 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
 
 ## Watch it, then run it
 
@@ -62,31 +62,31 @@ AWS lessons are illustrative (boto3/CLI) and live on the site, not here.
 
 ### Practice problems
 
-250 original problems (73 easy, 134 medium, 43 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
+270 original problems (89 easy, 137 medium, 44 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
 
 | Topic | Problems | Easy | Medium | Hard | Folder |
 |---|---:|---:|---:|---:|---|
 | Arrays | 17 | 8 | 6 | 3 | [`problems/arrays/`](problems/arrays/) |
 | Strings | 14 | 5 | 6 | 3 | [`problems/strings/`](problems/strings/) |
-| Searching | 10 | 3 | 6 | 1 | [`problems/searching/`](problems/searching/) |
+| Searching | 11 | 4 | 6 | 1 | [`problems/searching/`](problems/searching/) |
 | Sorting | 13 | 4 | 7 | 2 | [`problems/sorting/`](problems/sorting/) |
 | Linked Lists | 12 | 5 | 7 | 0 | [`problems/linked-lists/`](problems/linked-lists/) |
-| Stacks & Queues | 11 | 5 | 4 | 2 | [`problems/stacks-queues/`](problems/stacks-queues/) |
+| Stacks & Queues | 13 | 7 | 4 | 2 | [`problems/stacks-queues/`](problems/stacks-queues/) |
 | Hash Tables | 12 | 5 | 6 | 1 | [`problems/hash-tables/`](problems/hash-tables/) |
 | Recursion | 10 | 4 | 6 | 0 | [`problems/recursion/`](problems/recursion/) |
-| Backtracking | 10 | 1 | 6 | 3 | [`problems/backtracking/`](problems/backtracking/) |
-| Greedy | 9 | 2 | 6 | 1 | [`problems/greedy/`](problems/greedy/) |
+| Backtracking | 11 | 2 | 6 | 3 | [`problems/backtracking/`](problems/backtracking/) |
+| Greedy | 10 | 2 | 7 | 1 | [`problems/greedy/`](problems/greedy/) |
 | Trees & BST | 14 | 5 | 8 | 1 | [`problems/trees/`](problems/trees/) |
-| Tries | 9 | 2 | 4 | 3 | [`problems/tries/`](problems/tries/) |
-| Heaps | 10 | 2 | 7 | 1 | [`problems/heaps/`](problems/heaps/) |
-| Two Heaps & K-Way Merge | 9 | 1 | 5 | 3 | [`problems/two-heaps-k-way/`](problems/two-heaps-k-way/) |
-| Graphs | 15 | 2 | 8 | 5 | [`problems/graphs/`](problems/graphs/) |
+| Tries | 10 | 2 | 5 | 3 | [`problems/tries/`](problems/tries/) |
+| Heaps | 12 | 4 | 7 | 1 | [`problems/heaps/`](problems/heaps/) |
+| Two Heaps & K-Way Merge | 11 | 3 | 5 | 3 | [`problems/two-heaps-k-way/`](problems/two-heaps-k-way/) |
+| Graphs | 19 | 6 | 8 | 5 | [`problems/graphs/`](problems/graphs/) |
 | Matrix & Grid | 12 | 3 | 7 | 2 | [`problems/matrix-grid/`](problems/matrix-grid/) |
-| Union-Find | 9 | 1 | 6 | 2 | [`problems/union-find/`](problems/union-find/) |
-| Intervals | 10 | 2 | 7 | 1 | [`problems/intervals/`](problems/intervals/) |
+| Union-Find | 10 | 1 | 6 | 3 | [`problems/union-find/`](problems/union-find/) |
+| Intervals | 11 | 2 | 8 | 1 | [`problems/intervals/`](problems/intervals/) |
 | Bit Manipulation | 12 | 6 | 5 | 1 | [`problems/bit-manipulation/`](problems/bit-manipulation/) |
 | Math & Number Theory | 10 | 4 | 5 | 1 | [`problems/math-number-theory/`](problems/math-number-theory/) |
-| Dynamic Programming | 22 | 3 | 12 | 7 | [`problems/dynamic-programming/`](problems/dynamic-programming/) |
+| Dynamic Programming | 26 | 7 | 12 | 7 | [`problems/dynamic-programming/`](problems/dynamic-programming/) |
 
 ## Run it
 

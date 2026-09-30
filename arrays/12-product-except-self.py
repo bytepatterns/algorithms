@@ -11,6 +11,8 @@ Lesson 12 of Arrays, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/arrays/product-except-self
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python arrays/12-product-except-self.py
 """
 

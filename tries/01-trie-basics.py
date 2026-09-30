@@ -12,6 +12,8 @@ Lesson 1 of Tries, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/tries/trie-basics
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python tries/01-trie-basics.py
 """
 

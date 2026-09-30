@@ -10,6 +10,8 @@ Lesson 15 of Graphs, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/graphs/multi-source-bfs
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python graphs/15-multi-source-bfs.py
 """
 
