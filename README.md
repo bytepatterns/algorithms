@@ -2,9 +2,9 @@
 
 **Every algorithm from [bytepatterns.com](https://bytepatterns.com?utm_source=github&utm_medium=readme&utm_campaign=algorithms) as a small Python file you can run, read and break.**
 
-![lessons](https://img.shields.io/badge/lessons-324-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-586-0a7cf5) ![problems](https://img.shields.io/badge/problems-350-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
+![lessons](https://img.shields.io/badge/lessons-324-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-606-0a7cf5) ![problems](https://img.shields.io/badge/problems-370-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
 
-236 lesson files across 26 modules, plus 350 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
+236 lesson files across 26 modules, plus 370 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
 
 ## Watch it, then run it
 
@@ -62,7 +62,7 @@ AWS lessons are illustrative (boto3/CLI) and live on the site, not here.
 
 ### Practice problems
 
-350 original problems (121 easy, 174 medium, 55 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
+370 original problems (129 easy, 183 medium, 58 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
 
 | Topic | Problems | Easy | Medium | Hard | Folder |
 |---|---:|---:|---:|---:|---|
@@ -74,23 +74,24 @@ AWS lessons are illustrative (boto3/CLI) and live on the site, not here.
 | Stacks & Queues | 15 | 7 | 5 | 3 | [`problems/stacks-queues/`](problems/stacks-queues/) |
 | Hash Tables | 14 | 6 | 7 | 1 | [`problems/hash-tables/`](problems/hash-tables/) |
 | Recursion | 14 | 6 | 7 | 1 | [`problems/recursion/`](problems/recursion/) |
-| Backtracking | 13 | 3 | 7 | 3 | [`problems/backtracking/`](problems/backtracking/) |
+| Backtracking | 14 | 4 | 7 | 3 | [`problems/backtracking/`](problems/backtracking/) |
 | Greedy | 13 | 4 | 8 | 1 | [`problems/greedy/`](problems/greedy/) |
 | Trees & BST | 17 | 7 | 8 | 2 | [`problems/trees/`](problems/trees/) |
 | Tries | 12 | 3 | 6 | 3 | [`problems/tries/`](problems/tries/) |
-| Heaps | 13 | 5 | 7 | 1 | [`problems/heaps/`](problems/heaps/) |
-| Two Heaps & K-Way Merge | 13 | 4 | 6 | 3 | [`problems/two-heaps-k-way/`](problems/two-heaps-k-way/) |
+| Heaps | 14 | 5 | 8 | 1 | [`problems/heaps/`](problems/heaps/) |
+| Two Heaps & K-Way Merge | 14 | 4 | 6 | 4 | [`problems/two-heaps-k-way/`](problems/two-heaps-k-way/) |
 | Graphs | 21 | 7 | 8 | 6 | [`problems/graphs/`](problems/graphs/) |
-| Matrix & Grid | 13 | 4 | 7 | 2 | [`problems/matrix-grid/`](problems/matrix-grid/) |
+| Matrix & Grid | 14 | 5 | 7 | 2 | [`problems/matrix-grid/`](problems/matrix-grid/) |
 | Union-Find | 12 | 2 | 7 | 3 | [`problems/union-find/`](problems/union-find/) |
 | Intervals | 13 | 3 | 9 | 1 | [`problems/intervals/`](problems/intervals/) |
 | Bit Manipulation | 14 | 6 | 7 | 1 | [`problems/bit-manipulation/`](problems/bit-manipulation/) |
 | Math & Number Theory | 13 | 5 | 7 | 1 | [`problems/math-number-theory/`](problems/math-number-theory/) |
 | Dynamic Programming | 27 | 7 | 13 | 7 | [`problems/dynamic-programming/`](problems/dynamic-programming/) |
-| System Design | 5 | 2 | 3 | 0 | [`problems/system-design/`](problems/system-design/) |
-| AI & ML | 5 | 2 | 2 | 1 | [`problems/ai-ml/`](problems/ai-ml/) |
-| Low-Level Design | 5 | 2 | 2 | 1 | [`problems/lld/`](problems/lld/) |
-| Concurrency | 5 | 2 | 2 | 1 | [`problems/concurrency/`](problems/concurrency/) |
+| System Design | 8 | 3 | 5 | 0 | [`problems/system-design/`](problems/system-design/) |
+| System Design Cases | 4 | 2 | 2 | 0 | [`problems/system-design-cases/`](problems/system-design-cases/) |
+| AI & ML | 8 | 3 | 3 | 2 | [`problems/ai-ml/`](problems/ai-ml/) |
+| Low-Level Design | 8 | 3 | 3 | 2 | [`problems/lld/`](problems/lld/) |
+| Concurrency | 8 | 3 | 4 | 1 | [`problems/concurrency/`](problems/concurrency/) |
 | SQL | 15 | 5 | 8 | 2 | [`problems/sql/`](problems/sql/) |
 
 ## Run it
