@@ -2,9 +2,9 @@
 
 **Every algorithm from [bytepatterns.com](https://bytepatterns.com?utm_source=github&utm_medium=readme&utm_campaign=algorithms) as a small Python file you can run, read and break.**
 
-![lessons](https://img.shields.io/badge/lessons-324-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-566-0a7cf5) ![problems](https://img.shields.io/badge/problems-330-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
+![lessons](https://img.shields.io/badge/lessons-324-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-586-0a7cf5) ![problems](https://img.shields.io/badge/problems-350-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
 
-236 lesson files across 26 modules, plus 330 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
+236 lesson files across 26 modules, plus 350 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
 
 ## Watch it, then run it
 
@@ -62,7 +62,7 @@ AWS lessons are illustrative (boto3/CLI) and live on the site, not here.
 
 ### Practice problems
 
-330 original problems (113 easy, 165 medium, 52 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
+350 original problems (121 easy, 174 medium, 55 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
 
 | Topic | Problems | Easy | Medium | Hard | Folder |
 |---|---:|---:|---:|---:|---|
@@ -87,6 +87,10 @@ AWS lessons are illustrative (boto3/CLI) and live on the site, not here.
 | Bit Manipulation | 14 | 6 | 7 | 1 | [`problems/bit-manipulation/`](problems/bit-manipulation/) |
 | Math & Number Theory | 13 | 5 | 7 | 1 | [`problems/math-number-theory/`](problems/math-number-theory/) |
 | Dynamic Programming | 27 | 7 | 13 | 7 | [`problems/dynamic-programming/`](problems/dynamic-programming/) |
+| System Design | 5 | 2 | 3 | 0 | [`problems/system-design/`](problems/system-design/) |
+| AI & ML | 5 | 2 | 2 | 1 | [`problems/ai-ml/`](problems/ai-ml/) |
+| Low-Level Design | 5 | 2 | 2 | 1 | [`problems/lld/`](problems/lld/) |
+| Concurrency | 5 | 2 | 2 | 1 | [`problems/concurrency/`](problems/concurrency/) |
 | SQL | 15 | 5 | 8 | 2 | [`problems/sql/`](problems/sql/) |
 
 ## Run it

@@ -46,7 +46,7 @@ def check_printed(*values, expect, sep=" ", end="\n"):
 if __name__ == "__main__":
     d, r = 4096, 8                  # layer width, adapter rank
     full = d * d                    # a full fine-tune rewrites all of these
-    adapter = 2 * d * r             # A is d×r, B is r×d
+    adapter = 2 * d * r             # B is d×r, A is r×d
     check_printed(full, adapter, expect="16777216 65536")
     check_printed(round(100 * adapter / full, 2), "%", expect="0.39 %")
     # merged weight = W + B @ A -> same shape, so serving cost is unchanged

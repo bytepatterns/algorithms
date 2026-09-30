@@ -29,9 +29,9 @@ Approach:
     and skip idle stretches of days entirely. Each event is pushed and
     popped once, so time is O(n log n) and space is O(n).
 
-The lesson behind it: Interval Scheduling
-    https://bytepatterns.com/learn/greedy/interval-scheduling
-    python greedy/02-interval-scheduling.py
+The lesson behind it: Huffman Intuition
+    https://bytepatterns.com/learn/greedy/huffman-intuition
+    python greedy/05-huffman-intuition.py
 
 Try it first with progressive hints on the site:
     https://bytepatterns.com/practice/greedy/most-events-you-can-attend
