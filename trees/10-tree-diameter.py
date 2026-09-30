@@ -11,6 +11,8 @@ Lesson 10 of Trees & BST, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/trees/tree-diameter
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python trees/10-tree-diameter.py
 """
 

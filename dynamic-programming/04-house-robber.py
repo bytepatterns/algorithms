@@ -11,6 +11,8 @@ Lesson 4 of Dynamic Programming, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/dynamic-programming/house-robber
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python dynamic-programming/04-house-robber.py
 """
 

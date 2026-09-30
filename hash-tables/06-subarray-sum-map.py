@@ -12,6 +12,8 @@ Lesson 6 of Hash Tables, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/hash-tables/subarray-sum-map
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python hash-tables/06-subarray-sum-map.py
 """
 

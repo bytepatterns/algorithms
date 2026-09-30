@@ -9,6 +9,8 @@ Lesson 4 of Searching, with the step-by-step animation, an
 exercise and a quiz:
     https://bytepatterns.com/learn/searching/search-in-rotated-array
 
+Short video on this lesson: https://www.youtube.com/@bytepatterns
+
 Run it:  python searching/04-search-in-rotated-array.py
 """
 
