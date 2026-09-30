@@ -2,9 +2,9 @@
 
 **Every algorithm from [bytepatterns.com](https://bytepatterns.com?utm_source=github&utm_medium=readme&utm_campaign=algorithms) as a small Python file you can run, read and break.**
 
-![lessons](https://img.shields.io/badge/lessons-324-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-506-0a7cf5) ![problems](https://img.shields.io/badge/problems-270-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
+![lessons](https://img.shields.io/badge/lessons-324-0a7cf5) ![runnable files](https://img.shields.io/badge/runnable_files-526-0a7cf5) ![problems](https://img.shields.io/badge/problems-290-0a7cf5) ![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B_%C2%B7_no_deps-3776ab) [![run-all](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml/badge.svg)](https://github.com/bytepatterns/algorithms/actions/workflows/run-all.yml)
 
-236 lesson files across 26 modules, plus 270 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
+236 lesson files across 26 modules, plus 290 practice-problem solutions. Every file is standalone, uses only the standard library, and asserts the output its lesson promises.
 
 ## Watch it, then run it
 
@@ -62,7 +62,7 @@ AWS lessons are illustrative (boto3/CLI) and live on the site, not here.
 
 ### Practice problems
 
-270 original problems (89 easy, 137 medium, 44 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
+290 original problems (98 easy, 146 medium, 46 hard), each with the statement and examples as a docstring, a tested solution and a link to the lesson it practises. Try them first on the site, where hints unlock one at a time.
 
 | Topic | Problems | Easy | Medium | Hard | Folder |
 |---|---:|---:|---:|---:|---|
@@ -73,20 +73,21 @@ AWS lessons are illustrative (boto3/CLI) and live on the site, not here.
 | Linked Lists | 12 | 5 | 7 | 0 | [`problems/linked-lists/`](problems/linked-lists/) |
 | Stacks & Queues | 13 | 7 | 4 | 2 | [`problems/stacks-queues/`](problems/stacks-queues/) |
 | Hash Tables | 12 | 5 | 6 | 1 | [`problems/hash-tables/`](problems/hash-tables/) |
-| Recursion | 10 | 4 | 6 | 0 | [`problems/recursion/`](problems/recursion/) |
+| Recursion | 12 | 5 | 6 | 1 | [`problems/recursion/`](problems/recursion/) |
 | Backtracking | 11 | 2 | 6 | 3 | [`problems/backtracking/`](problems/backtracking/) |
-| Greedy | 10 | 2 | 7 | 1 | [`problems/greedy/`](problems/greedy/) |
+| Greedy | 12 | 3 | 8 | 1 | [`problems/greedy/`](problems/greedy/) |
 | Trees & BST | 14 | 5 | 8 | 1 | [`problems/trees/`](problems/trees/) |
-| Tries | 10 | 2 | 5 | 3 | [`problems/tries/`](problems/tries/) |
+| Tries | 12 | 3 | 6 | 3 | [`problems/tries/`](problems/tries/) |
 | Heaps | 12 | 4 | 7 | 1 | [`problems/heaps/`](problems/heaps/) |
 | Two Heaps & K-Way Merge | 11 | 3 | 5 | 3 | [`problems/two-heaps-k-way/`](problems/two-heaps-k-way/) |
 | Graphs | 19 | 6 | 8 | 5 | [`problems/graphs/`](problems/graphs/) |
 | Matrix & Grid | 12 | 3 | 7 | 2 | [`problems/matrix-grid/`](problems/matrix-grid/) |
-| Union-Find | 10 | 1 | 6 | 3 | [`problems/union-find/`](problems/union-find/) |
+| Union-Find | 12 | 2 | 7 | 3 | [`problems/union-find/`](problems/union-find/) |
 | Intervals | 11 | 2 | 8 | 1 | [`problems/intervals/`](problems/intervals/) |
 | Bit Manipulation | 12 | 6 | 5 | 1 | [`problems/bit-manipulation/`](problems/bit-manipulation/) |
-| Math & Number Theory | 10 | 4 | 5 | 1 | [`problems/math-number-theory/`](problems/math-number-theory/) |
+| Math & Number Theory | 12 | 5 | 6 | 1 | [`problems/math-number-theory/`](problems/math-number-theory/) |
 | Dynamic Programming | 26 | 7 | 12 | 7 | [`problems/dynamic-programming/`](problems/dynamic-programming/) |
+| SQL | 10 | 4 | 5 | 1 | [`problems/sql/`](problems/sql/) |
 
 ## Run it
 
