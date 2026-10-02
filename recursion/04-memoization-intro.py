@@ -36,4 +36,4 @@ def check(value, expected):
 
 
 if __name__ == "__main__":
-    check(fib(35), 9227465)  # in 35 steps instead of millions
+    check(fib(35), 9227465)  # in 69 calls instead of nearly 30 million

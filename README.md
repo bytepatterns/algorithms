@@ -124,6 +124,8 @@ Found a bug, a wrong output or an edge case a lesson misses? Open an issue with 
 ## Follow along
 
 - Website: [bytepatterns.com](https://bytepatterns.com?utm_source=github&utm_medium=readme&utm_campaign=algorithms)
+- Cheat sheets: [Big-O](https://bytepatterns.com/cheatsheets/big-o?utm_source=github&utm_medium=readme&utm_campaign=algorithms) · [interview patterns](https://bytepatterns.com/cheatsheets/patterns?utm_source=github&utm_medium=readme&utm_campaign=algorithms) · [SQL](https://bytepatterns.com/cheatsheets/sql?utm_source=github&utm_medium=readme&utm_campaign=algorithms) · [Python](https://bytepatterns.com/cheatsheets/python?utm_source=github&utm_medium=readme&utm_campaign=algorithms)
+- Long reads: [the blog](https://bytepatterns.com/blog?utm_source=github&utm_medium=readme&utm_campaign=algorithms), one article per lesson with the same animation embedded
 - YouTube: [@bytepatterns](https://www.youtube.com/@bytepatterns)
 - Instagram: [@bytepatterns](https://www.instagram.com/bytepatterns/)
 - TikTok: [@bytepatterns](https://www.tiktok.com/@bytepatterns)

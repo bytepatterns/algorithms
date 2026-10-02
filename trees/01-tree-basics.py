@@ -18,8 +18,8 @@ class Node:
 
 root = Node("home", [Node("docs", [Node("cv.pdf")]), Node("photos")])
 
-def depth(node, d=0):                  # longest link count below this node
-    return d if not node.kids else max(depth(k, d + 1) for k in node.kids)
+def height(node):                      # longest link count below this node
+    return 0 if not node.kids else 1 + max(height(k) for k in node.kids)
 
 
 # ---------------------------------------------------------------------------
@@ -60,4 +60,4 @@ if __name__ == "__main__":
     check_printed(root.val, expect="home  -> the root")
     check([k.val for k in root.kids], ['docs', 'photos'])
     check(root.kids[1].kids == [], True)  # photos is a leaf
-    check(depth(root), 2)  # edges to the deepest file
+    check(height(root), 2)  # edges to the deepest file

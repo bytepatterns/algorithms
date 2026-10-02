@@ -4,8 +4,10 @@ String Basics: Strings never change — every edit builds a brand-new one.
 A Python string is a fixed block of characters. Nothing edits it in place:
 slicing, .upper() and + each hand back a whole new string.
 
-So s += ch in a loop copies everything built so far, every time. An
-innocent-looking loop quietly costs O(n²).
+So s += ch in a loop can copy everything built so far, every time. An
+innocent-looking loop can quietly cost O(n²). CPython sometimes grows the
+string in place when nothing else refers to it, but the language does not
+promise that.
 
 Lesson 1 of Strings, with the step-by-step animation, an
 exercise and a quiz:
@@ -49,8 +51,8 @@ if __name__ == "__main__":
     # s[0] = "S"  ->  TypeError: strings are immutable
 
     out = ""
-    for ch in s:                  # each += copies the whole result again
-        out += ch.upper()         # O(n²) across the loop
+    for ch in s:                  # each += may copy the whole result again
+        out += ch.upper()         # O(n²) across the loop, in general
     check_printed(out, expect="STRING")
 
     parts = []
